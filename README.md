@@ -5,7 +5,7 @@
 <h1 align="center">d77-iso</h1>
 
 <p align="center">
-  Custom Arch Linux package repository -- the [custom] repo behind d77arch_qtile.
+  Custom Arch Linux package repository -- the [custom] repo behind d77arch.
 </p>
 
 ---
