@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="128" alt="d77-iso logo">
+  <img src="assets/logo.png?v=2" width="128" alt="d77-iso logo">
 </p>
 
 <h1 align="center">d77-iso</h1>
