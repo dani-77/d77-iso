@@ -29,6 +29,23 @@ The primary highlight of this repository is a tailored **Qtile** desktop environ
 * **`arc-gtk-theme`** / **`arc-solid-gtk-theme`** — GTK theming to match.
 * *Additional utility packages and patched tools as needed.*
 
+### d77 desktop components
+
+Pre-built from the PKGBUILDs in [dani-77/aur](https://github.com/dani-77/aur)
+(also published on the AUR):
+
+* **`d77run`** — Minimal GTK4 run-dialog launcher.
+* **`fabric-d77`** — GTK desktop shell for Wayland compositors, built on Fabric.
+* **`quickshell-d77`** / **`qsd77`** — Quickshell desktop shell and its control helper.
+* **`utumno`** — Minimal Quickshell desktop shell.
+* **`helium-d77`** — Wayland shell built with the Helium shell framework.
+* **`wasp-d77`** — dwl-based Wayland compositor (pulls in **`scenefx0.5`**, shipped here too).
+* **`pwm-d77`** — Penrose-based X11 tiling window manager.
+
+AUR-only dependencies of the above are shipped here too, so everything
+resolves from `[custom]` plus the official repos: **`python-fabric-git`**,
+**`python-thefuzz`** (for `fabric-d77`) and **`st`** (for `pwm-d77`).
+
 <hr>
 
 ## Quick Setup
