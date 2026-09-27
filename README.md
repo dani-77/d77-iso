@@ -38,7 +38,6 @@ Pre-built from the PKGBUILDs in [dani-77/aur](https://github.com/dani-77/aur)
 * **`fabric-d77`** — GTK desktop shell for Wayland compositors, built on Fabric.
 * **`quickshell-d77`** / **`qsd77`** — Quickshell desktop shell and its control helper.
 * **`utumno`** — Minimal Quickshell desktop shell.
-* **`helium-d77`** — Wayland shell built with the Helium shell framework.
 * **`wasp-d77`** — dwl-based Wayland compositor (pulls in **`scenefx0.5`**, shipped here too).
 * **`pwm-d77`** — Penrose-based X11 tiling window manager.
 
