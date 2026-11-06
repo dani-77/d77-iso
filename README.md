@@ -42,6 +42,9 @@ Pre-built from the PKGBUILDs in [dani-77/aur](https://github.com/dani-77/aur)
 * **`spitfire`** — Smithay-based dwm-style tiling Wayland compositor.
 * **`wasp-d77`** — dwl-based Wayland compositor (pulls in **`scenefx0.5`**, shipped here too).
 * **`pwm-d77`** — Penrose-based X11 tiling window manager.
+* **`helium-d77`** — Wayland desktop shell built with the Helium framework (locks with **`amorphis`**).
+* **`amorphis`** — Small, fail-closed screen locker for Wayland and X11.
+* **`kantele`** — Settings GUI for the d77 window managers, which also picks and switches the desktop shell.
 
 AUR-only dependencies of the above are shipped here too, so everything
 resolves from `[custom]` plus the official repos: **`python-fabric-git`**,
