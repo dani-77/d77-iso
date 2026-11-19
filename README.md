@@ -41,6 +41,7 @@ Pre-built from the PKGBUILDs in [dani-77/aur](https://github.com/dani-77/aur)
 * **`mocinha`** — Live-system installer used by btw-d77 (experimental, work in progress; [dani-77/mocinha](https://github.com/dani-77/mocinha)).
 * **`spitfire`** — Smithay-based dwm-style tiling Wayland compositor.
 * **`wasp-d77`** — dwl-based Wayland compositor (pulls in **`scenefx0.5`**, shipped here too).
+* **`whiplash`** — xmonad-style Wayland compositor with a Haskell brain and a TOML config.
 * **`pwm-d77`** — Penrose-based X11 tiling window manager.
 * **`helium-d77`** — Wayland desktop shell built with the Helium framework (locks with **`amorphis`**).
 * **`amorphis`** — Small, fail-closed screen locker for Wayland and X11.
