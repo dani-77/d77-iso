@@ -43,7 +43,7 @@ Pre-built from the PKGBUILDs in [dani-77/aur](https://github.com/dani-77/aur)
 * **`wasp-d77`** — dwl-based Wayland compositor (pulls in **`scenefx0.5`**, shipped here too).
 * **`whiplash`** — xmonad-style Wayland compositor with a Haskell brain and a TOML config.
 * **`pwm-d77`** — Penrose-based X11 tiling window manager.
-* **`helium-d77`** — Wayland desktop shell built with the Helium framework (locks with **`amorphis`**).
+* **`helium-d77`** — Wayland desktop shell built with the Helium framework, with its own screen locker.
 * **`amorphis`** — Small, fail-closed screen locker for Wayland and X11.
 * **`kantele`** — Settings GUI for the d77 window managers, which also picks and switches the desktop shell.
 
