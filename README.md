@@ -46,10 +46,14 @@ Pre-built from the PKGBUILDs in [dani-77/aur](https://github.com/dani-77/aur)
 * **`helium-d77`** — Wayland desktop shell built with the Helium framework, with its own screen locker.
 * **`amorphis`** — Small, fail-closed screen locker for Wayland and X11.
 * **`kantele`** — Settings GUI for the d77 window managers, which also picks and switches the desktop shell.
+* **`frost-d77`** — Wayland desktop shell and session locker written in Rust.
 
 AUR-only dependencies of the above are shipped here too, so everything
 resolves from `[custom]` plus the official repos: **`python-fabric-git`**,
-**`python-thefuzz`** (for `fabric-d77`) and **`st`** (for `pwm-d77`).
+**`python-thefuzz`** (for `fabric-d77`), **`st`** (for `pwm-d77`), and
+**`eww`** and **`dgop-bin`** (the shared system monitor of `fabric-d77`,
+`frost-d77`, `helium-d77`, `quickshell-d77` and `utumno`; `dgop-bin`
+provides `dgop`).
 
 <hr>
 
