@@ -36,8 +36,9 @@ Pre-built from the PKGBUILDs in [dani-77/aur](https://github.com/dani-77/aur)
 
 * **`d77run`** — Minimal GTK4 run-dialog launcher.
 * **`fabric-d77`** — GTK desktop shell for Wayland compositors, built on Fabric.
-* **`quickshell-d77`** / **`qsd77`** — Quickshell desktop shell and its control helper.
-* **`utumno`** — Minimal Quickshell desktop shell.
+* **`utumno`** — Quickshell desktop shell (bar, launcher, dashboard, greeter...).
+* **`qsd77`** — Control helper for the Quickshell shells.
+* **`quickshell-d77`** — Former Quickshell desktop shell, now archived and superseded by `utumno`; still shipped for existing installs.
 * **`mocinha`** — Live-system installer used by btw-d77 (experimental, work in progress; [dani-77/mocinha](https://github.com/dani-77/mocinha)).
 * **`spitfire`** — Smithay-based dwm-style tiling Wayland compositor.
 * **`wasp-d77`** — dwl-based Wayland compositor (pulls in **`scenefx0.5`**, shipped here too).
